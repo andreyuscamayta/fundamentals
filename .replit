@@ -1,0 +1,2 @@
+language = "c"
+run = "rm *.o;gcc ex1.c -o ex.o;./ex.o"
