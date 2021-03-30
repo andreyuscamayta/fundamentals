@@ -456,7 +456,7 @@ Se o valor `a` fosse zero ou negativo, deveria terminar o programa.
 
 ## Exercicio 13: 
 Programar em Java
-Arquivo a editar e modificar `ex13.c`
+Arquivo a editar e modificar `ex13.java`
 
 ### Descrição
 Ao fazer o troco, é provável que você queira minimizar o número de moedas que está devolvendo para cada cliente, para que não acabe (ou irrite o cliente!). 
